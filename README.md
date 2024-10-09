@@ -6,10 +6,9 @@ Here is the version on my local computer. Isn't that grand?
 
 ## Joshua makes changes here
 
-
+Hi Tobias!
 
 ## Tobias makes changes here
-
 
 
 ## Both make changes here
